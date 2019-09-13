@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezixiansheng.github.io</id>
     <title>盒子先生博客</title>
-    <updated>2019-09-13T11:02:34.413Z</updated>
+    <updated>2019-09-13T11:07:54.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hezixiansheng.github.io"/>
     <link rel="self" href="https://hezixiansheng.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://hezixiansheng.github.io/images/avatar.png</logo>
     <icon>https://hezixiansheng.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 盒子先生博客</rights>
+    <entry>
+        <title type="html"><![CDATA[老铁只会双击]]></title>
+        <id>https://hezixiansheng.github.io/post/lao-tie-zhi-hui-shuang-ji</id>
+        <link href="https://hezixiansheng.github.io/post/lao-tie-zhi-hui-shuang-ji">
+        </link>
+        <updated>2019-09-13T11:03:58.000Z</updated>
+        <content type="html"><![CDATA[<p>并承诺在</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://hezixiansheng.github.io/post/hello-gridea</id>
